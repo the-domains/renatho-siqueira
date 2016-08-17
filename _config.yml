@@ -11,6 +11,12 @@ color:
     - '#F4EEA9'
     - '#F4F482'
 layout_spectrum: 0.4841199894435704
+author:
+  name: Renatho Siqueira
+  email: renatho@renatho.com.br
+  url: www.renatho.mba
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fffdac77-d234-42b2-b6b7-d21a651ddfa2.png
 name: Renatho Siqueira
 title: Renatho.MBA
 description: 'Marketing, Comunicação, Comportamento e Sociedade'
