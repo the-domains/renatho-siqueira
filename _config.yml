@@ -1,4 +1,3 @@
-layout_spectrum: 0.4841199894435704
 typography_spectrum: 0.8250186883378774
 color:
   brandStrength: 0.10327262012287974
@@ -6,9 +5,11 @@ color:
   saturation: 0.46338661666959524
   rhythmicContrast: 0.7799580714199692
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+layout_spectrum: 0.4841199894435704
 name: Renatho Siqueira
+description: 'Marketing, Comunicação, Comportamento e Sociedade'
